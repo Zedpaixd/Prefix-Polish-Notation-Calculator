@@ -22,19 +22,8 @@ class tree
     };
 
 tree::tree()
-   {/*What do programmers and
-    * the British have in common?
-    * they both like to innit()
-    * 
-    * idk why i wrote that
-    * but not having a constructor
-    * for some reason ruins the
-    * code completely and i
-    * won't attempt to debug it
-    * so i just added a joke
-    * and a small wall of text
-    * instead of actual code
-    */}
+   {
+   }
 
 tree* root;
 
